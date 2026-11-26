@@ -8,7 +8,7 @@ no network. Output has no trailing newline and is 1-120 characters.
 
 import os
 
-ENTRY = "Day 23 behind the dryer. My pair moved in with a slipper. I hope they're both miserable."
+ENTRY = "Day 23 behind the dryer. My pair moved in with a slipper. I hope they're both itchy."
 
 MIN_LEN = 1
 MAX_LEN = 120
